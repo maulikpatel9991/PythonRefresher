@@ -10,7 +10,5 @@ item = 15
 tax = .03
 
 money_left = money - item - (item * tax)
-
 print(money_left)
-
 print(50 - 15 - (15 * .03))
